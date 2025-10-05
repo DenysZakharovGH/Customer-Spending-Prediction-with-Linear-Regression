@@ -30,10 +30,13 @@ Scatter plot of Length of Membership vs Yearly Amount Spent
 
 Shows a clear positive linear relationship:
 
+![data plot](docs/data_plot.png)
 
 Regression line fit
 
-The blue line shows the regression prediction vs real customer data:
+The red line shows the regression prediction vs green line prediction from sklearn:
+
+![Loss Curve](docs/regression_line.png)
 
 
 🚀 Applications
